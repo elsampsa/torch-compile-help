@@ -1,4 +1,4 @@
-# Pytorch compilation for but CUDA and ROCm
+# Pytorch compilation with conda for CUDA and ROCm
 
 ## 0. Word of warning
 
