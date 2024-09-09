@@ -93,7 +93,7 @@ When using the environment, always remember to source the environmental script (
 
 ## 3. ROCm version
 
-So here we mix a system-wide installation (ROCm) and a conda-environment installation (gcc, xmake ninja, pip installed packages, etc.)
+So here we mix a system-wide installation (ROCm) and a conda-environment installation (gcc, cmake, ninja, pip installed packages, etc.)
 
 A system-wide installation of ROCm is done (there seems to be no conda package for it).  GCC 10 and all other stuff is installed into the conda environment.
 
